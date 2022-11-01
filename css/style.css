@@ -1,0 +1,51 @@
+* {
+    font-family: "Courier New", sans-serif;
+}
+
+body {
+    background-color: rgb(240, 255, 242);
+}
+
+h1 {
+    background-color: rgb(51, 141, 81);
+    color: lightgreen;
+    text-align: center;
+    font-size: 48px;
+    border-bottom: 4px solid lightgreen;
+    padding: 10px;
+}
+
+.nav {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+.nav-link {
+    padding: 20px;
+    background-color: lightgreen;
+    margin: 10px;
+    font-weight: 800;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(51, 141, 81);
+}
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-left: 100px;
+    text-decoration: overline;
+}
+
+.margin-list > li {
+    margin-top: 10px;
+}
