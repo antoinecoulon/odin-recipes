@@ -4,4 +4,4 @@ Ce projet est le premier que je réalise en suivant la formation du site The Odi
 
 Je suis tout ouvert aux feedbacks que vous pourriez m'apporter !
 
-La formation se limite pour l'instant au HTML, mais le projet sera continué pendant la formation avec l'acquisition de nouvelles compétences sur d'autres langages de programmation (prochainement CSS).
+La formation se limitait au départ au HTML, j'ai ensuite étudié et ajouté le CSS au projet. 
