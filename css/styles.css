@@ -1,0 +1,34 @@
+body {
+    font-family: "Verdana", sans-serif;
+    background-color: rgb(1, 27, 49);
+    color: rgb(181, 220, 255);
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(34, 68, 99, 0.5);
+    color: rgb(1, 27, 49);
+    padding: 1em;
+    font-weight: 800;
+}
+
+h2 {
+    text-decoration: underline;
+    position: relative;
+    left: 50px;
+}
+
+img {    
+    display: block;
+    margin: 0px auto;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(181, 220, 255);
+}
+
+li {
+    margin: 10px;
+}
