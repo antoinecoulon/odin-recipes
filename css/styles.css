@@ -29,6 +29,16 @@ a {
     color: rgb(181, 220, 255);
 }
 
+ul {
+    text-align: center;
+}
+
 li {
-    margin: 10px;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 50px 10px;
+    display: inline-block;
+    width: 150px;
+    border: 2px solid rgb(181, 220, 255);
+    background-color: rgb(94, 109, 122);
 }
